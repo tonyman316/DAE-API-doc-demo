@@ -1,4 +1,4 @@
-# Untitled
+# test
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
@@ -57,6 +57,41 @@ Could not find a cake matching this query.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+{% hint style="info" %}
+Some hint
+{% endhint %}
+
+> Some quote
+
+| Something | Something |
+| :--- | :--- |
+| 123 | 123 |
+| 123 | 123 |
+
+{% page-ref page="authentication/authorizing-requests.md" %}
+
+{% tabs %}
+{% tab title="cURL" %}
+```text
+Some code
+
+
+```
+{% endtab %}
+
+{% tab title="JS" %}
+```text
+Some code
+```
+{% endtab %}
+
+{% tab title="Java" %}
+```
+Some code
+```
+{% endtab %}
+{% endtabs %}
 
 
 

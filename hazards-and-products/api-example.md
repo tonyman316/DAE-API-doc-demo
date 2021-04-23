@@ -6,7 +6,7 @@ Get hazard type
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+This endpoint allows you to get hazard type
 {% endapi-method-description %}
 
 {% api-method-spec %}

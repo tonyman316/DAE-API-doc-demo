@@ -1,6 +1,6 @@
 # What are Global Active Hazards?
 
-A hazard is an incident e.g. earthquake, volcano, tornado etc… that has reached a threshold where it has become a significant danger to life and property.  DAE’s DaaS provides global hazard information.  Hazard as a data object has three main definitions:  
+A hazard is an incident e.g. earthquake, volcano, tornado etc… that has reached a threshold where it has become a significant danger to life and property. DAE’s DaaS provides global hazard information.  Hazard as a data object has three main definitions:  
 
 
 1. **Type** — This property defines what kind of hazard is it.  Examples of hazard type include: Earthquakes, Wildfires, Tropical Storms etc… etc… Each hazard type has a set of associated data layers that help put the hazard into context.  For example, the United States Geological Society’s Shake Map helps both users and automated processes understand the impact of an earthquake.
